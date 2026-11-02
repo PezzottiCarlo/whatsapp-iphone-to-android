@@ -1,0 +1,2 @@
+pycryptodomex>=3.20
+iphone_backup_decrypt==0.11.2
